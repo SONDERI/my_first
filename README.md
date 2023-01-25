@@ -3,14 +3,14 @@
 my first repository to write
 Bioinformatics workshop from monday 23rd-27th January 2023
 
-# DAY ONE
+## DAY ONE
 
 Installation of tools
 
 Install;
 gitbash and R studio
 
-# DAY TWO
+## DAY TWO
 
 **Introduction to commandline**
 
@@ -22,6 +22,10 @@ gitbash and R studio
 
 *How to delete directories and files
 
-# DAY THREE
+### Reading materials
+
+~[carpentry.resources](https://swcarpentry.github.io/shell-novice/)
+
+## DAY THREE
 
 **Introduction to shell and github**
