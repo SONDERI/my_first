@@ -12,8 +12,14 @@ gitbash and R studio
 
 # DAY TWO
 
-Introduction to commandline
+**Introduction to commandline**
+
+*How to move in the computer
+
+*How to create directories and files
+
+*How to delete directories and files
 
 # DAY THREE
 
-Introduction to shell and github
+**Introduction to shell and github**
