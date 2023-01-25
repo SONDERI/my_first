@@ -18,6 +18,8 @@ gitbash and R studio
 
 *How to create directories and files
 
+*How to copy files 
+
 *How to delete directories and files
 
 # DAY THREE
